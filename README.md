@@ -6,7 +6,7 @@
 
 اگر روی سرور لینوکس اجراش میکنید میتونید با اسکرین برای همیشه ران نگهش دارید 
 
-```bash clone https://github.com/moradpoor/AutoAccepterbot.git ```
-```bash cd AutoAccepterbot```
-```bash screen``` 
-```bash python3 bot.py```
+```clone https://github.com/moradpoor/AutoAccepterbot.git ```
+```cd AutoAccepterbot```
+```screen``` 
+```python3 bot.py```
